@@ -7,7 +7,7 @@ cond=$(ps -ef | grep 'ntpd.pid' | grep -v grep | wc -l)
 
 if [ $cond -eq 0 ]
  then
-    service ntpd start
+    /etc/init.d/ntpd start
 fi
 
 
