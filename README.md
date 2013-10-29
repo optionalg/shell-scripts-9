@@ -1,4 +1,4 @@
 shell-scripts
 =============
 
-Shell scripts by linuxto automate routine
+Shell scripts by linux to automate routine
