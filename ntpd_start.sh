@@ -12,6 +12,6 @@ fi
 
 
 ## Put script in crontab
-## Run script every 5 minuts
+## Run script ,for example, every 5 minuts
 $ crontab -l
 */5    *             *       *       *   /root/ntpd_start.sh
